@@ -15,3 +15,18 @@ if name == "Vivien" or (name== "John" and age >= 2 ) :
     print("Hello, Welcome")
 else: 
     print("Good Bye")'''
+
+# Activity 2 
+'''print("Enter a Number(Numerator): ")
+numn= int(input())
+
+print("Enter a Number (Denominator): ")
+numd=int(input())
+
+if numn % numd == 0:
+
+  print("\n" + str(numn) + " is divisible by " + str(numd))
+
+else:
+
+  print("\n" + str(numn) + " is not divisible by " + str(numd))'''
